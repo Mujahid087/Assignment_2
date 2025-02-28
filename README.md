@@ -189,10 +189,7 @@ streamlit run app.py
 ## **Contributing**
 Feel free to contribute to this project by opening issues or submitting pull requests.
 
----
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
